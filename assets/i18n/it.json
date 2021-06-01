@@ -137,7 +137,7 @@
     "dgc-windows-wallet-modal-differences": "Quali sono le differenze tra i due wallet?", 
     "dgc-windows-wallet-modal-sync": "Per utilizzare Dogecoin devi sincronizzare il tuo wallet con la blockchain.", 
     "dgc-windows-wallet-modal-ledger": "Questo significa che hai bisogno del \"ledger\" (una sorta di \"libro mastro\" che archivia tutte le transazioni) per usare Dogecoin.", 
-    "dgc-windows-wallet-modal-light-wallet": "MultiDoge è un wallet \"leggero\". E' capace di sincronizzarsi con la blockchain attraverso lo \"skimming\" (una lettura parziale della blockchain), permettendo tempi di sincronizzazione rapidi.",
+    "dgc-windows-wallet-modal-light-wallet": "",
     "dgc-windows-wallet-modal-full-wallet": "Dogecoin Core, invece, è un wallet integrale, che richiede lo scaricamento dell'intera blockchain. Per questo Dogecoin Core è considerato il wallet più sicuro e affidabile.", 
     "dgc-windows-wallet-modal-prosandcons": "Vantaggi e Svantaggi", 
     "dgc-windows-wallet-modal-different-strokes": "I due wallet hanno ovviamente i loro vantaggi e svantaggi", 

@@ -136,7 +136,7 @@
     "dgc-windows-wallet-modal-differences": "What are the differences between the two?", 
     "dgc-windows-wallet-modal-sync": "You have to sync with the blockchain to use Catecoin.", 
     "dgc-windows-wallet-modal-ledger": "This means, you need the Catecoin \"ledger\" to use Catecoin.", 
-    "dgc-windows-wallet-modal-light-wallet": "MultiCate is a \"light\" wallet. It syncs with the blockchain by \"skimming\" through the blockchain, providing fast sync times.",
+    "dgc-windows-wallet-modal-light-wallet": "",
     "dgc-windows-wallet-modal-full-wallet": "Catecoin Core, on the other hand, is a \"full\" wallet. It syncs by downloading it, providing a solid-working Catecoin wallet.", 
     "dgc-windows-wallet-modal-prosandcons": "Advantages and Disadvantages?", 
     "dgc-windows-wallet-modal-different-strokes": "Both wallets have their advantages and disadvantages.", 

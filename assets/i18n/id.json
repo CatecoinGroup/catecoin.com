@@ -137,7 +137,7 @@
     "dgc-windows-wallet-modal-differences": "Apa perbedaan diantara keduanya?", 
     "dgc-windows-wallet-modal-sync": "Kamu harus melakukan sinkronisasi dengan blockchain untuk menggunakan Dogecoin.", 
     "dgc-windows-wallet-modal-ledger": "Ini berarti, kamu membutuhkan \"ledger\" Dogecoin untuk menggunakan Dogecoin.", 
-    "dgc-windows-wallet-modal-light-wallet": "MultiDoge adalah sebuah dompet \"light\". Ini disinkronkan menggunakan blockchain dengan \"skimming\" melalui blockchain, waktu sinkronisasi disediakan dengan cepat.",
+    "dgc-windows-wallet-modal-light-wallet": "",
     "dgc-windows-wallet-modal-full-wallet": "Dogecoin Core, di sisi lain, adalah dompet \"full\". Sinkronisasinya dilakukan dengan cara mengunduhnya, menyediakan dompet Dogecoin yang berfungsi dengan baik.", 
     "dgc-windows-wallet-modal-prosandcons": "Keuntungan dan Kerugian?", 
     "dgc-windows-wallet-modal-different-strokes": "Masing - masing dompet memiliki keuntungan dan kerugiannya.", 

@@ -136,7 +136,7 @@
     "dgc-windows-wallet-modal-differences": "दोघांमध्ये काय फरक आहेत?", 
     "dgc-windows-wallet-modal-sync": "Dogecoin वापरण्यासाठी आपल्याला ब्लॉकचेनसह समक्रमित करावे लागेल.", 
     "dgc-windows-wallet-modal-ledger": "याचा अर्थ असा की, Dogecoinवापरण्यासाठी आपणास Dogecoin \"खाती \" आवश्यक आहे.", 
-    "dgc-windows-wallet-modal-light-wallet": "MultiDoge एक \"लाइट \" वॉलेट आहे. हे ब्लॉकचेनद्वारे \"स्किमिंग \" द्वारे समक्रमित करते, जलद संकालनाची वेळ प्रदान करते.",
+    "dgc-windows-wallet-modal-light-wallet": "",
     "dgc-windows-wallet-modal-full-wallet": "Dogecoin Core, दुसरीकडे, एक \"पूर्ण \" वॉलेट आहे. ते डाउनलोड करून समक्रमित करते, एक घन-कार्य करणारे Dogecoin वॉलेट प्रदान करते.", 
     "dgc-windows-wallet-modal-prosandcons": "फायदे आणि तोटे?", 
     "dgc-windows-wallet-modal-different-strokes": "दोन्ही वॉलेटचे त्यांचे फायदे आणि तोटे आहेत.", 

@@ -136,7 +136,7 @@
     "dgc-windows-wallet-modal-differences": "İkisi arasındaki farklar nelerdir?", 
     "dgc-windows-wallet-modal-sync": "Dogecoin'i kullanmak için blockchain ile senkronize olmalısınız.", 
     "dgc-windows-wallet-modal-ledger": "Bu, Dogecoin'i kullanmak için Dogecoin \"defterine\" ihtiyacınız olduğu anlamına gelir.", 
-    "dgc-windows-wallet-modal-light-wallet": "MultiDoge \"light\" bir cüzdandır. Blok zinciri üzerinden \"gözden geçirerek\" blok zinciri ile senkronize olur ve hızlı senkronizasyon süreleri sağlar.",
+    "dgc-windows-wallet-modal-light-wallet": "",
     "dgc-windows-wallet-modal-full-wallet": "Dogecoin Core ise  \"full\"  bir cüzdandır. İndirerek senkronize eder ve sağlam çalışan bir Dogecoin cüzdanı sağlar.", 
     "dgc-windows-wallet-modal-prosandcons": "Avantajlar ve dezavantajlar?", 
     "dgc-windows-wallet-modal-different-strokes": "Her iki cüzdanın da avantajları ve dezavantajları vardır.", 

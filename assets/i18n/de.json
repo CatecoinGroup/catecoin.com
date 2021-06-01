@@ -134,7 +134,7 @@
     "dgc-windows-wallet-modal-differences": "Wo sind die Unterschiede zwischen den beiden?",
     "dgc-windows-wallet-modal-sync": "Du musst deine Brieftasche mit der Blockchain synchronisieren, um Catecoin zu benutzen.",
     "dgc-windows-wallet-modal-ledger": "Das bedeutet, du ben&ouml;tigst das Catecoin-\"Hauptbuch\", um Catecoin zu benutzen.",
-    "dgc-windows-wallet-modal-light-wallet": "MultiCate ist eine \"Light\"-Brieftasche. Sie synchronisiert sich mit der Blockchain, indem sie sie \"&uuml;berfliegt\". Das bringt schnelle Synchronisierung.",
+    "dgc-windows-wallet-modal-light-wallet": "",
     "dgc-windows-wallet-modal-full-wallet": "Auf der anderen Seite ist Catecoin Core. Catecoin Core ist eine \"Voll\"-Brieftasche. Sie l&auml;dt die Blockchain komplett herunter und ist somit sehr solide.",
     "dgc-windows-wallet-modal-prosandcons": "Vor- und Nachteile?",
     "dgc-windows-wallet-modal-different-strokes": "Beide Brieftaschen haben ihre Vor- und Nachteile.",
